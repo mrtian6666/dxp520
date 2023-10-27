@@ -1,0 +1,24 @@
+body{
+  font-family:Verdana, Geneva, Arial ;
+  font-size: 12px;
+  color: royalblue;
+	color: rgb(65, 105, 225);
+	color: #4169E1CC;
+	color: rgba(39,177,182,0.8);
+	color: #2775b6CC;
+  font-style: italic;
+  background-color: rgb(186, 207, 101);
+  text-decoration: underline;
+  }
+
+h1,h2{
+  font-size:220%,130%;
+  color: #cc6600;
+  border-bottom: thin dotted #888888;
+  }
+blockquote{
+  font-style: italic;
+  }
+h2{
+  font-weight: normal;
+  }
