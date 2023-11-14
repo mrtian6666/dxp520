@@ -1,90 +1,21 @@
 body {
-  font-size: small;
-  font-family: Verdana， Helvetica， Arial;;
-  line-height: 1.6em;
+  font-size: 12pt;
+  font-family: Times, "Times New Roman", serif;
+  line-height: 1.4em;
   margin: 10px 40px 10px 40px;
   width: 700px;
 }
-	
 
-.elixirs {
-	border-width: thin;
-	border-style: solid;
-	border-color: #007e7e;
-  width: 200px;
-  padding-right:20px；
-	padding bottom 20px;
-	padding-left: 20px;
-	margin-left: 20px;
-  background-image:url(images/cocktail.gif);
-	background-repeat:repeat-x;
-	text-align:center; 
-  
-  float: right;
-  line-height: 1em;
-
-}
-.elixirs a:link {
-  color: #007e7e;
-}
-
-.elixirs a:visited {
-  color: #333333;
-}
-
-.elixirs a:hover {
-  background: #f88396;
-  color: #0d5353;
-}
-
-#elixirs {
-  font-family: Verdana, Helvetica, Arial, sans-serif; 
-  width: 200px;
-  background-color: #ffffff;
-  background: url("images/elixirbackground.gif") repeat-x top center;
-  padding: 0px 20px 20px 20px;
-  margin-left: 25px;
-  color: #000000;
-  border: thin double #007e7e;
-  text-align: center; 
-  font-size: 80%;
-  line-height: 1em;
-  line-height: 1;
-}
-
-.guarantee {
-  border-color:white;
-  border-width:1px;
-  border-style:dashed;
-  background-color:#a7cece;
-  padding: 25px;
-  margin: 30px;
-  line-height: 1.9em;
-  font-style: italic;
-  color: #444;
-  font-family: Georgia, 'Times New Roman';
-  background-image: url(images/background.gif);
-  background-repeat: no-repeat;
-  background-position: top left;
-  padding-left: 80px;
-  margin-right: 250px;
-  border-top-right-radius:2em ;
-  border-bottom-left-radius: 2em;
-  width: auto;
-
-}
-p{border-style: dashed;
-border-color: white;}
 h1, h2 {
-  color: #007e7e
+  color: black;
 }
 
 h1 {
-  font-size: 1.5em;
+  font-size: 150%;
 }
 
 h2 {
-  font-size: 1.3em;
+  font-size: 130%;
 }
 
 #guarantee {
@@ -98,7 +29,18 @@ h2 {
   color: #222222;
 }
 
-
+#elixirs {
+  font-family: Verdana, Helvetica, Arial, sans-serif; 
+  width: 200px;
+  background-color: #ffffff;
+  background: url("images/elixirbackground.gif") repeat-x top center;
+  padding: 0px 20px 20px 20px;
+  margin-left: 25px;
+  color: #000000;
+  border: thin double #007e7e;
+  text-align: center; 
+  font-size: 80%;
+}
 
 #elixirs a:link { color: #007e7e;}
 #elixirs a:visited { color: #333333;}
@@ -121,10 +63,10 @@ h2 {
 }
 
 #footer {
-  font-size: .5em;
-text-align: center;
-line-height: normal;
-margin-top: 30px;
+  font-size: 50%;
+  text-align: center;
+  line-height: normal;
+  margin-top: 30px;
 }
 
 .artist {
@@ -137,13 +79,4 @@ margin-top: 30px;
 
 body p a:link { color: #007e7e; }
 body p a:visited { color: #333333; }
-h1,h2{
-color: #007e7e;
-}
-h2{
-color: black;
-}
-div h2{
-color: black;
-}
 
