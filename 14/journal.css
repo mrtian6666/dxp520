@@ -10,6 +10,7 @@ body{
   background-color: rgb(186, 207, 101);
   text-decoration: underline;
   }
+  *{padding: 0px;margin: 0px;}
 
 h1,h2{
   font-size:220%,130%;

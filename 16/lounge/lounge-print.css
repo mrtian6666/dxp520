@@ -5,7 +5,18 @@ body {
   margin: 10px 40px 10px 40px;
   width: 700px;
 }
-
+.guarantee {
+  border-color:white;
+  border-width:1px;
+  line-height: 1.9em;
+  font-style: italic;
+  color: #444;
+  font-family: Georgia, 'Times New Roman';
+  border-style:dashed;
+  background-color:#a7cece;
+  padding: 25px;
+  margin: 30px;
+}
 h1, h2 {
   color: #007e7e
 }

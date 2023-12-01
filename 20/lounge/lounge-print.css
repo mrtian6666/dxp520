@@ -5,6 +5,8 @@ body {
   margin: 10px 40px 10px 40px;
   width: 700px;
 }
+	
+
 .elixirs {
 	border-width: thin;
 	border-style: solid;
@@ -17,6 +19,10 @@ body {
   background-image:url(images/cocktail.gif);
 	background-repeat:repeat-x;
 	text-align:center; 
+  
+  float: right;
+  line-height: 1em;
+
 }
 .elixirs a:link {
   color: #007e7e;
@@ -49,19 +55,19 @@ body {
 .guarantee {
   border-color:white;
   border-width:1px;
-  line-height: 1.9em;
-  font-style: italic;
-  color: #444;
-  font-family: Georgia, 'Times New Roman';
   border-style:dashed;
   background-color:#a7cece;
   padding: 25px;
   margin: 30px;
+  line-height: 1.9em;
+  font-style: italic;
+  color: #444;
+  font-family: Georgia, 'Times New Roman';
   background-image: url(images/background.gif);
   background-repeat: no-repeat;
   background-position: top left;
-  padding: 25px;
   padding-left: 80px;
+
   margin-right: 250px;
   border-top-right-radius:2em ;
   border-bottom-left-radius: 2em;
